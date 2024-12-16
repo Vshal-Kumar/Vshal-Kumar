@@ -11,9 +11,8 @@ I thrive on building dynamic, user-centric web applications, experimenting with 
 ---
 
 ✨ Superpowers...
-- Backend Prodigy⚙️: Crafting powerful systems using Java, Python, and PostgreSQL.  
+- Backend Prodigy⚙️: Crafting powerful systems using Java, Python.  
 - Frontend Innovator🎨: Building beautiful, responsive interfaces with HTML, CSS, and JavaScript.  
-- Framework Enthusiast🚀: Developing robust apps with Django and dynamic UIs with React.js.  
 - Data Sorcerer🔮: Exploring the depths of Machine Learning to solve real-world problems.
 
 ---
