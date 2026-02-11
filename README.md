@@ -1,32 +1,44 @@
-👋 Hi, I’m 👨‍💻 @Vshal-Kumar
-I’m a tech enthusiast who loves learning about Machine Learning and Full-Stack Development.
-I enjoy using Java and Python to build cool projects and solve real problems.
+👋 Hi, I’m Vadrangi Vishal Kumar 👨‍💻
+I’m an entry-level Python Developer with a strong foundation in core programming concepts and a growing interest in backend and full-stack web development. I enjoy building practical applications that solve real problems and strengthen my understanding of system design and APIs.
 
-👀 I’m interested in...
+👀 I’m interested in…
 
-Web Development 🌐
+Backend & Web Development 🌐
 
-Machine Learning 🤖
+RESTful API design using Flask ⚙️
 
-Building apps with Java and Python 💻
+Problem solving with Python 🐍
 
-✨ My Skills...
+Learning how real-world applications are built and deployed
 
-Backend: Java, Python
+✨ My Skills
 
-Frontend: HTML, CSS, JavaScript
+Programming Languages: Python, Java, HTML, CSS
 
-Machine Learning: Exploring how AI can solve real-world problems
+Backend & Frameworks: Flask, REST APIs
 
-🌱 I’m currently learning...
-More about machine learning and how to build complete full-stack applications.
+Data & Libraries: Pandas, Matplotlib
 
-💞 I’m looking to collaborate on...
-Projects related to web development, AI, or backend systems.
-I’d love to work with others who enjoy creating new and useful things.
+Tools & Concepts: Git, Operating Systems, Networking
 
-🌟 My Goal...
-To keep learning, build impactful projects, and grow as a developer.
+🌱 I’m currently learning…
 
-⚡ Fun fact...
-Coding feels like magic—it turns ideas into reality! ✨
+Advanced Flask concepts and backend architecture
+
+Full-stack application development
+
+Improving logical reasoning and system-level understanding
+
+💞 I’m looking to collaborate on…
+
+Python or Flask-based backend projects
+
+Web applications for college or real-world use cases
+
+Beginner-friendly open-source projects where I can learn and contribute
+
+🌟 My Goal
+To grow as a software developer by building impactful projects, strengthening my backend skills, and contributing effectively in collaborative team environments.
+
+⚡ Fun fact
+I enjoy turning simple ideas into working applications—debugging feels challenging, but solving it is rewarding! 🚀
